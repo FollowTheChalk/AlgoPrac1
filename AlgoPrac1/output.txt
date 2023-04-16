@@ -1,0 +1,1328 @@
+From input
+# of Vertex : 100
+Edge : 259
+
+It's first line of the file
+There are 2 of graphs in this file now
+From file
+# of Vertex : 100
+, Edge : 259
+starting point of Graph: 19
+From input
+# of Vertex : 100
+, Edge : 259
+From file
+# of Vertex : 100
+, Edge : 259
+starting point of Graph: 19
+
+There is infomation from file about edges :  0(front)  1(rear)  1(cost)
+After 1th stacking
+check your adjacent stack here:
+0 (front index)  0
+
+There is infomation from file about edges :  1(front)  2(rear)  1(cost)
+After 2th stacking
+check your adjacent stack here:
+1 (front index)  1
+
+There is infomation from file about edges :  2(front)  3(rear)  1(cost)
+After 3th stacking
+check your adjacent stack here:
+2 (front index)  2
+
+There is infomation from file about edges :  3(front)  4(rear)  1(cost)
+After 4th stacking
+check your adjacent stack here:
+3 (front index)  3
+
+There is infomation from file about edges :  4(front)  5(rear)  1(cost)
+After 5th stacking
+check your adjacent stack here:
+4 (front index)  4
+
+There is infomation from file about edges :  5(front)  6(rear)  1(cost)
+After 6th stacking
+check your adjacent stack here:
+5 (front index)  5
+
+There is infomation from file about edges :  6(front)  7(rear)  1(cost)
+After 7th stacking
+check your adjacent stack here:
+6 (front index)  6
+
+There is infomation from file about edges :  7(front)  8(rear)  1(cost)
+After 8th stacking
+check your adjacent stack here:
+7 (front index)  7
+
+There is infomation from file about edges :  8(front)  9(rear)  1(cost)
+After 9th stacking
+check your adjacent stack here:
+8 (front index)  8
+
+There is infomation from file about edges :  9(front)  10(rear)  1(cost)
+After 10th stacking
+check your adjacent stack here:
+9 (front index)  9
+
+There is infomation from file about edges :  10(front)  11(rear)  1(cost)
+After 11th stacking
+check your adjacent stack here:
+10 (front index)  10
+
+There is infomation from file about edges :  11(front)  12(rear)  1(cost)
+After 12th stacking
+check your adjacent stack here:
+11 (front index)  11
+
+There is infomation from file about edges :  12(front)  13(rear)  1(cost)
+After 13th stacking
+check your adjacent stack here:
+12 (front index)  12
+
+There is infomation from file about edges :  13(front)  14(rear)  1(cost)
+After 14th stacking
+check your adjacent stack here:
+13 (front index)  13
+
+There is infomation from file about edges :  14(front)  15(rear)  1(cost)
+After 15th stacking
+check your adjacent stack here:
+14 (front index)  14
+
+There is infomation from file about edges :  15(front)  16(rear)  1(cost)
+After 16th stacking
+check your adjacent stack here:
+15 (front index)  15
+
+There is infomation from file about edges :  16(front)  17(rear)  1(cost)
+After 17th stacking
+check your adjacent stack here:
+16 (front index)  16
+
+There is infomation from file about edges :  17(front)  18(rear)  1(cost)
+After 18th stacking
+check your adjacent stack here:
+17 (front index)  17
+
+There is infomation from file about edges :  18(front)  19(rear)  1(cost)
+After 19th stacking
+check your adjacent stack here:
+18 (front index)  18
+
+There is infomation from file about edges :  19(front)  20(rear)  1(cost)
+After 20th stacking
+check your adjacent stack here:
+19 (front index)  19
+
+There is infomation from file about edges :  20(front)  21(rear)  1(cost)
+After 21th stacking
+check your adjacent stack here:
+20 (front index)  20
+
+There is infomation from file about edges :  21(front)  22(rear)  1(cost)
+After 22th stacking
+check your adjacent stack here:
+21 (front index)  21
+
+There is infomation from file about edges :  22(front)  23(rear)  1(cost)
+After 23th stacking
+check your adjacent stack here:
+22 (front index)  22
+
+There is infomation from file about edges :  23(front)  24(rear)  1(cost)
+After 24th stacking
+check your adjacent stack here:
+23 (front index)  23
+
+There is infomation from file about edges :  24(front)  25(rear)  1(cost)
+After 25th stacking
+check your adjacent stack here:
+24 (front index)  24
+
+There is infomation from file about edges :  25(front)  26(rear)  1(cost)
+After 26th stacking
+check your adjacent stack here:
+25 (front index)  25
+
+There is infomation from file about edges :  26(front)  27(rear)  1(cost)
+After 27th stacking
+check your adjacent stack here:
+26 (front index)  26
+
+There is infomation from file about edges :  27(front)  28(rear)  1(cost)
+After 28th stacking
+check your adjacent stack here:
+27 (front index)  27
+
+There is infomation from file about edges :  28(front)  29(rear)  1(cost)
+After 29th stacking
+check your adjacent stack here:
+28 (front index)  28
+
+There is infomation from file about edges :  29(front)  30(rear)  1(cost)
+After 30th stacking
+check your adjacent stack here:
+29 (front index)  29
+
+There is infomation from file about edges :  30(front)  31(rear)  1(cost)
+After 31th stacking
+check your adjacent stack here:
+30 (front index)  30
+
+There is infomation from file about edges :  31(front)  32(rear)  1(cost)
+After 32th stacking
+check your adjacent stack here:
+31 (front index)  31
+
+There is infomation from file about edges :  32(front)  33(rear)  1(cost)
+After 33th stacking
+check your adjacent stack here:
+32 (front index)  32
+
+There is infomation from file about edges :  33(front)  34(rear)  1(cost)
+After 34th stacking
+check your adjacent stack here:
+33 (front index)  33
+
+There is infomation from file about edges :  34(front)  35(rear)  1(cost)
+After 35th stacking
+check your adjacent stack here:
+34 (front index)  34
+
+There is infomation from file about edges :  35(front)  36(rear)  1(cost)
+After 36th stacking
+check your adjacent stack here:
+35 (front index)  35
+
+There is infomation from file about edges :  36(front)  37(rear)  1(cost)
+After 37th stacking
+check your adjacent stack here:
+36 (front index)  36
+
+There is infomation from file about edges :  37(front)  38(rear)  1(cost)
+After 38th stacking
+check your adjacent stack here:
+37 (front index)  37
+
+There is infomation from file about edges :  38(front)  39(rear)  1(cost)
+After 39th stacking
+check your adjacent stack here:
+38 (front index)  38
+
+There is infomation from file about edges :  39(front)  40(rear)  1(cost)
+After 40th stacking
+check your adjacent stack here:
+39 (front index)  39
+
+There is infomation from file about edges :  40(front)  41(rear)  1(cost)
+After 41th stacking
+check your adjacent stack here:
+40 (front index)  40
+
+There is infomation from file about edges :  41(front)  42(rear)  1(cost)
+After 42th stacking
+check your adjacent stack here:
+41 (front index)  41
+
+There is infomation from file about edges :  42(front)  43(rear)  1(cost)
+After 43th stacking
+check your adjacent stack here:
+42 (front index)  42
+
+There is infomation from file about edges :  43(front)  44(rear)  1(cost)
+After 44th stacking
+check your adjacent stack here:
+43 (front index)  43
+
+There is infomation from file about edges :  44(front)  45(rear)  1(cost)
+After 45th stacking
+check your adjacent stack here:
+44 (front index)  44
+
+There is infomation from file about edges :  45(front)  46(rear)  1(cost)
+After 46th stacking
+check your adjacent stack here:
+45 (front index)  45
+
+There is infomation from file about edges :  46(front)  47(rear)  1(cost)
+After 47th stacking
+check your adjacent stack here:
+46 (front index)  46
+
+There is infomation from file about edges :  47(front)  48(rear)  1(cost)
+After 48th stacking
+check your adjacent stack here:
+47 (front index)  47
+
+There is infomation from file about edges :  48(front)  49(rear)  1(cost)
+After 49th stacking
+check your adjacent stack here:
+48 (front index)  48
+
+There is infomation from file about edges :  49(front)  50(rear)  1(cost)
+After 50th stacking
+check your adjacent stack here:
+49 (front index)  49
+
+There is infomation from file about edges :  50(front)  51(rear)  1(cost)
+After 51th stacking
+check your adjacent stack here:
+50 (front index)  50
+
+There is infomation from file about edges :  51(front)  52(rear)  1(cost)
+After 52th stacking
+check your adjacent stack here:
+51 (front index)  51
+
+There is infomation from file about edges :  52(front)  53(rear)  1(cost)
+After 53th stacking
+check your adjacent stack here:
+52 (front index)  52
+
+There is infomation from file about edges :  53(front)  54(rear)  1(cost)
+After 54th stacking
+check your adjacent stack here:
+53 (front index)  53
+
+There is infomation from file about edges :  54(front)  55(rear)  1(cost)
+After 55th stacking
+check your adjacent stack here:
+54 (front index)  54
+
+There is infomation from file about edges :  55(front)  56(rear)  1(cost)
+After 56th stacking
+check your adjacent stack here:
+55 (front index)  55
+
+There is infomation from file about edges :  56(front)  57(rear)  1(cost)
+After 57th stacking
+check your adjacent stack here:
+56 (front index)  56
+
+There is infomation from file about edges :  57(front)  58(rear)  1(cost)
+After 58th stacking
+check your adjacent stack here:
+57 (front index)  57
+
+There is infomation from file about edges :  58(front)  59(rear)  1(cost)
+After 59th stacking
+check your adjacent stack here:
+58 (front index)  58
+
+There is infomation from file about edges :  59(front)  60(rear)  1(cost)
+After 60th stacking
+check your adjacent stack here:
+59 (front index)  59
+
+There is infomation from file about edges :  60(front)  61(rear)  1(cost)
+After 61th stacking
+check your adjacent stack here:
+60 (front index)  60
+
+There is infomation from file about edges :  61(front)  62(rear)  1(cost)
+After 62th stacking
+check your adjacent stack here:
+61 (front index)  61
+
+There is infomation from file about edges :  62(front)  63(rear)  1(cost)
+After 63th stacking
+check your adjacent stack here:
+62 (front index)  62
+
+There is infomation from file about edges :  63(front)  64(rear)  1(cost)
+After 64th stacking
+check your adjacent stack here:
+63 (front index)  63
+
+There is infomation from file about edges :  64(front)  65(rear)  1(cost)
+After 65th stacking
+check your adjacent stack here:
+64 (front index)  64
+
+There is infomation from file about edges :  65(front)  66(rear)  1(cost)
+After 66th stacking
+check your adjacent stack here:
+65 (front index)  65
+
+There is infomation from file about edges :  66(front)  67(rear)  1(cost)
+After 67th stacking
+check your adjacent stack here:
+66 (front index)  66
+
+There is infomation from file about edges :  67(front)  68(rear)  1(cost)
+After 68th stacking
+check your adjacent stack here:
+67 (front index)  67
+
+There is infomation from file about edges :  68(front)  69(rear)  1(cost)
+After 69th stacking
+check your adjacent stack here:
+68 (front index)  68
+
+There is infomation from file about edges :  69(front)  70(rear)  1(cost)
+After 70th stacking
+check your adjacent stack here:
+69 (front index)  69
+
+There is infomation from file about edges :  70(front)  71(rear)  1(cost)
+After 71th stacking
+check your adjacent stack here:
+70 (front index)  70
+
+There is infomation from file about edges :  71(front)  72(rear)  1(cost)
+After 72th stacking
+check your adjacent stack here:
+71 (front index)  71
+
+There is infomation from file about edges :  72(front)  73(rear)  1(cost)
+After 73th stacking
+check your adjacent stack here:
+72 (front index)  72
+
+There is infomation from file about edges :  73(front)  74(rear)  1(cost)
+After 74th stacking
+check your adjacent stack here:
+73 (front index)  73
+
+There is infomation from file about edges :  74(front)  75(rear)  1(cost)
+After 75th stacking
+check your adjacent stack here:
+74 (front index)  74
+
+There is infomation from file about edges :  75(front)  76(rear)  1(cost)
+After 76th stacking
+check your adjacent stack here:
+75 (front index)  75
+
+There is infomation from file about edges :  76(front)  77(rear)  1(cost)
+After 77th stacking
+check your adjacent stack here:
+76 (front index)  76
+
+There is infomation from file about edges :  77(front)  78(rear)  1(cost)
+After 78th stacking
+check your adjacent stack here:
+77 (front index)  77
+
+There is infomation from file about edges :  78(front)  79(rear)  1(cost)
+After 79th stacking
+check your adjacent stack here:
+78 (front index)  78
+
+There is infomation from file about edges :  79(front)  80(rear)  1(cost)
+After 80th stacking
+check your adjacent stack here:
+79 (front index)  79
+
+There is infomation from file about edges :  80(front)  81(rear)  1(cost)
+After 81th stacking
+check your adjacent stack here:
+80 (front index)  80
+
+There is infomation from file about edges :  81(front)  82(rear)  1(cost)
+After 82th stacking
+check your adjacent stack here:
+81 (front index)  81
+
+There is infomation from file about edges :  82(front)  83(rear)  1(cost)
+After 83th stacking
+check your adjacent stack here:
+82 (front index)  82
+
+There is infomation from file about edges :  83(front)  84(rear)  1(cost)
+After 84th stacking
+check your adjacent stack here:
+83 (front index)  83
+
+There is infomation from file about edges :  84(front)  85(rear)  1(cost)
+After 85th stacking
+check your adjacent stack here:
+84 (front index)  84
+
+There is infomation from file about edges :  85(front)  86(rear)  1(cost)
+After 86th stacking
+check your adjacent stack here:
+85 (front index)  85
+
+There is infomation from file about edges :  86(front)  87(rear)  1(cost)
+After 87th stacking
+check your adjacent stack here:
+86 (front index)  86
+
+There is infomation from file about edges :  87(front)  88(rear)  1(cost)
+After 88th stacking
+check your adjacent stack here:
+87 (front index)  87
+
+There is infomation from file about edges :  88(front)  89(rear)  1(cost)
+After 89th stacking
+check your adjacent stack here:
+88 (front index)  88
+
+There is infomation from file about edges :  89(front)  90(rear)  1(cost)
+After 90th stacking
+check your adjacent stack here:
+89 (front index)  89
+
+There is infomation from file about edges :  90(front)  91(rear)  1(cost)
+After 91th stacking
+check your adjacent stack here:
+90 (front index)  90
+
+There is infomation from file about edges :  91(front)  92(rear)  1(cost)
+After 92th stacking
+check your adjacent stack here:
+91 (front index)  91
+
+There is infomation from file about edges :  92(front)  93(rear)  1(cost)
+After 93th stacking
+check your adjacent stack here:
+92 (front index)  92
+
+There is infomation from file about edges :  93(front)  94(rear)  1(cost)
+After 94th stacking
+check your adjacent stack here:
+93 (front index)  93
+
+There is infomation from file about edges :  94(front)  95(rear)  1(cost)
+After 95th stacking
+check your adjacent stack here:
+94 (front index)  94
+
+There is infomation from file about edges :  95(front)  96(rear)  1(cost)
+After 96th stacking
+check your adjacent stack here:
+95 (front index)  95
+
+There is infomation from file about edges :  96(front)  97(rear)  1(cost)
+After 97th stacking
+check your adjacent stack here:
+96 (front index)  96
+
+There is infomation from file about edges :  97(front)  98(rear)  1(cost)
+After 98th stacking
+check your adjacent stack here:
+97 (front index)  97
+
+There is infomation from file about edges :  98(front)  99(rear)  1(cost)
+After 99th stacking
+check your adjacent stack here:
+98 (front index)  98
+
+There is infomation from file about edges :  99(front)  0(rear)  1(cost)
+After 100th stacking
+check your adjacent stack here:
+99 (front index)  99
+
+There is infomation from file about edges :  47(front)  8(rear)  1(cost)
+After 101th stacking
+check your adjacent stack here:
+100 (front index)  100
+
+There is infomation from file about edges :  35(front)  0(rear)  1(cost)
+After 102th stacking
+check your adjacent stack here:
+101 (front index)  101
+
+There is infomation from file about edges :  94(front)  46(rear)  1(cost)
+After 103th stacking
+check your adjacent stack here:
+102 (front index)  102
+
+There is infomation from file about edges :  72(front)  30(rear)  1(cost)
+After 104th stacking
+check your adjacent stack here:
+103 (front index)  103
+
+There is infomation from file about edges :  55(front)  79(rear)  1(cost)
+After 105th stacking
+check your adjacent stack here:
+104 (front index)  104
+
+There is infomation from file about edges :  96(front)  37(rear)  1(cost)
+After 106th stacking
+check your adjacent stack here:
+105 (front index)  105
+
+There is infomation from file about edges :  72(front)  1(rear)  1(cost)
+After 107th stacking
+check your adjacent stack here:
+106 (front index)  106
+
+There is infomation from file about edges :  47(front)  85(rear)  1(cost)
+After 108th stacking
+check your adjacent stack here:
+107 (front index)  107
+
+There is infomation from file about edges :  21(front)  18(rear)  1(cost)
+After 109th stacking
+check your adjacent stack here:
+108 (front index)  108
+
+There is infomation from file about edges :  92(front)  68(rear)  1(cost)
+After 110th stacking
+check your adjacent stack here:
+109 (front index)  109
+
+There is infomation from file about edges :  72(front)  42(rear)  1(cost)
+After 111th stacking
+check your adjacent stack here:
+110 (front index)  110
+
+There is infomation from file about edges :  51(front)  17(rear)  1(cost)
+After 112th stacking
+check your adjacent stack here:
+111 (front index)  111
+
+There is infomation from file about edges :  50(front)  35(rear)  1(cost)
+After 113th stacking
+check your adjacent stack here:
+112 (front index)  112
+
+There is infomation from file about edges :  66(front)  94(rear)  1(cost)
+After 114th stacking
+check your adjacent stack here:
+113 (front index)  113
+
+There is infomation from file about edges :  19(front)  89(rear)  1(cost)
+After 115th stacking
+check your adjacent stack here:
+114 (front index)  114
+
+There is infomation from file about edges :  15(front)  59(rear)  1(cost)
+After 116th stacking
+check your adjacent stack here:
+115 (front index)  115
+
+There is infomation from file about edges :  4(front)  26(rear)  1(cost)
+After 117th stacking
+check your adjacent stack here:
+116 (front index)  116
+
+There is infomation from file about edges :  52(front)  88(rear)  1(cost)
+After 118th stacking
+check your adjacent stack here:
+117 (front index)  117
+
+There is infomation from file about edges :  80(front)  57(rear)  1(cost)
+After 119th stacking
+check your adjacent stack here:
+118 (front index)  118
+
+There is infomation from file about edges :  75(front)  34(rear)  1(cost)
+After 120th stacking
+check your adjacent stack here:
+119 (front index)  119
+
+There is infomation from file about edges :  17(front)  91(rear)  1(cost)
+After 121th stacking
+check your adjacent stack here:
+120 (front index)  120
+
+There is infomation from file about edges :  37(front)  97(rear)  1(cost)
+After 122th stacking
+check your adjacent stack here:
+121 (front index)  121
+
+There is infomation from file about edges :  13(front)  64(rear)  1(cost)
+After 123th stacking
+check your adjacent stack here:
+122 (front index)  122
+
+There is infomation from file about edges :  42(front)  88(rear)  1(cost)
+After 124th stacking
+check your adjacent stack here:
+123 (front index)  123
+
+There is infomation from file about edges :  2(front)  85(rear)  1(cost)
+After 125th stacking
+check your adjacent stack here:
+124 (front index)  124
+
+There is infomation from file about edges :  91(front)  26(rear)  1(cost)
+After 126th stacking
+check your adjacent stack here:
+125 (front index)  125
+
+There is infomation from file about edges :  87(front)  94(rear)  1(cost)
+After 127th stacking
+check your adjacent stack here:
+126 (front index)  126
+
+There is infomation from file about edges :  55(front)  8(rear)  1(cost)
+After 128th stacking
+check your adjacent stack here:
+127 (front index)  127
+
+There is infomation from file about edges :  74(front)  91(rear)  1(cost)
+After 129th stacking
+check your adjacent stack here:
+128 (front index)  128
+
+There is infomation from file about edges :  37(front)  63(rear)  1(cost)
+After 130th stacking
+check your adjacent stack here:
+129 (front index)  129
+
+There is infomation from file about edges :  26(front)  39(rear)  1(cost)
+After 131th stacking
+check your adjacent stack here:
+130 (front index)  130
+
+There is infomation from file about edges :  38(front)  51(rear)  1(cost)
+After 132th stacking
+check your adjacent stack here:
+131 (front index)  131
+
+There is infomation from file about edges :  36(front)  8(rear)  1(cost)
+After 133th stacking
+check your adjacent stack here:
+132 (front index)  132
+
+There is infomation from file about edges :  70(front)  32(rear)  1(cost)
+After 134th stacking
+check your adjacent stack here:
+133 (front index)  133
+
+There is infomation from file about edges :  37(front)  56(rear)  1(cost)
+After 135th stacking
+check your adjacent stack here:
+134 (front index)  134
+
+There is infomation from file about edges :  29(front)  67(rear)  1(cost)
+After 136th stacking
+check your adjacent stack here:
+135 (front index)  135
+
+There is infomation from file about edges :  5(front)  83(rear)  1(cost)
+After 137th stacking
+check your adjacent stack here:
+136 (front index)  136
+
+There is infomation from file about edges :  84(front)  37(rear)  1(cost)
+After 138th stacking
+check your adjacent stack here:
+137 (front index)  137
+
+There is infomation from file about edges :  47(front)  78(rear)  1(cost)
+After 139th stacking
+check your adjacent stack here:
+138 (front index)  138
+
+There is infomation from file about edges :  60(front)  24(rear)  1(cost)
+After 140th stacking
+check your adjacent stack here:
+139 (front index)  139
+
+There is infomation from file about edges :  47(front)  20(rear)  1(cost)
+After 141th stacking
+check your adjacent stack here:
+140 (front index)  140
+
+There is infomation from file about edges :  64(front)  59(rear)  1(cost)
+After 142th stacking
+check your adjacent stack here:
+141 (front index)  141
+
+There is infomation from file about edges :  4(front)  22(rear)  1(cost)
+After 143th stacking
+check your adjacent stack here:
+142 (front index)  142
+
+There is infomation from file about edges :  91(front)  9(rear)  1(cost)
+After 144th stacking
+check your adjacent stack here:
+143 (front index)  143
+
+There is infomation from file about edges :  47(front)  51(rear)  1(cost)
+After 145th stacking
+check your adjacent stack here:
+144 (front index)  144
+
+There is infomation from file about edges :  0(front)  40(rear)  1(cost)
+After 146th stacking
+check your adjacent stack here:
+145 (front index)  145
+
+There is infomation from file about edges :  85(front)  0(rear)  1(cost)
+After 147th stacking
+check your adjacent stack here:
+146 (front index)  146
+
+There is infomation from file about edges :  36(front)  58(rear)  1(cost)
+After 148th stacking
+check your adjacent stack here:
+147 (front index)  147
+
+There is infomation from file about edges :  41(front)  58(rear)  1(cost)
+After 149th stacking
+check your adjacent stack here:
+148 (front index)  148
+
+There is infomation from file about edges :  51(front)  25(rear)  1(cost)
+After 150th stacking
+check your adjacent stack here:
+149 (front index)  149
+
+There is infomation from file about edges :  88(front)  24(rear)  1(cost)
+After 151th stacking
+check your adjacent stack here:
+150 (front index)  150
+
+There is infomation from file about edges :  14(front)  5(rear)  1(cost)
+After 152th stacking
+check your adjacent stack here:
+151 (front index)  151
+
+There is infomation from file about edges :  86(front)  93(rear)  1(cost)
+After 153th stacking
+check your adjacent stack here:
+152 (front index)  152
+
+There is infomation from file about edges :  87(front)  3(rear)  1(cost)
+After 154th stacking
+check your adjacent stack here:
+153 (front index)  153
+
+There is infomation from file about edges :  54(front)  9(rear)  1(cost)
+After 155th stacking
+check your adjacent stack here:
+154 (front index)  154
+
+There is infomation from file about edges :  84(front)  27(rear)  1(cost)
+After 156th stacking
+check your adjacent stack here:
+155 (front index)  155
+
+There is infomation from file about edges :  34(front)  12(rear)  1(cost)
+After 157th stacking
+check your adjacent stack here:
+156 (front index)  156
+
+There is infomation from file about edges :  62(front)  49(rear)  1(cost)
+After 158th stacking
+check your adjacent stack here:
+157 (front index)  157
+
+There is infomation from file about edges :  47(front)  0(rear)  1(cost)
+After 159th stacking
+check your adjacent stack here:
+158 (front index)  158
+
+There is infomation from file about edges :  35(front)  93(rear)  1(cost)
+After 160th stacking
+check your adjacent stack here:
+159 (front index)  159
+
+There is infomation from file about edges :  71(front)  57(rear)  1(cost)
+After 161th stacking
+check your adjacent stack here:
+160 (front index)  160
+
+There is infomation from file about edges :  77(front)  3(rear)  1(cost)
+After 162th stacking
+check your adjacent stack here:
+161 (front index)  161
+
+There is infomation from file about edges :  16(front)  87(rear)  1(cost)
+After 163th stacking
+check your adjacent stack here:
+162 (front index)  162
+
+There is infomation from file about edges :  24(front)  4(rear)  1(cost)
+After 164th stacking
+check your adjacent stack here:
+163 (front index)  163
+
+There is infomation from file about edges :  64(front)  62(rear)  1(cost)
+After 165th stacking
+check your adjacent stack here:
+164 (front index)  164
+
+There is infomation from file about edges :  98(front)  94(rear)  1(cost)
+After 166th stacking
+check your adjacent stack here:
+165 (front index)  165
+
+There is infomation from file about edges :  14(front)  9(rear)  1(cost)
+After 167th stacking
+check your adjacent stack here:
+166 (front index)  166
+
+There is infomation from file about edges :  7(front)  51(rear)  1(cost)
+After 168th stacking
+check your adjacent stack here:
+167 (front index)  167
+
+There is infomation from file about edges :  11(front)  3(rear)  1(cost)
+After 169th stacking
+check your adjacent stack here:
+168 (front index)  168
+
+There is infomation from file about edges :  93(front)  61(rear)  1(cost)
+After 170th stacking
+check your adjacent stack here:
+169 (front index)  169
+
+There is infomation from file about edges :  11(front)  65(rear)  1(cost)
+After 171th stacking
+check your adjacent stack here:
+170 (front index)  170
+
+There is infomation from file about edges :  4(front)  16(rear)  1(cost)
+After 172th stacking
+check your adjacent stack here:
+171 (front index)  171
+
+There is infomation from file about edges :  91(front)  49(rear)  1(cost)
+After 173th stacking
+check your adjacent stack here:
+172 (front index)  172
+
+There is infomation from file about edges :  80(front)  35(rear)  1(cost)
+After 174th stacking
+check your adjacent stack here:
+173 (front index)  173
+
+There is infomation from file about edges :  62(front)  18(rear)  1(cost)
+After 175th stacking
+check your adjacent stack here:
+174 (front index)  174
+
+There is infomation from file about edges :  97(front)  41(rear)  1(cost)
+After 176th stacking
+check your adjacent stack here:
+175 (front index)  175
+
+There is infomation from file about edges :  14(front)  87(rear)  1(cost)
+After 177th stacking
+check your adjacent stack here:
+176 (front index)  176
+
+There is infomation from file about edges :  4(front)  65(rear)  1(cost)
+After 178th stacking
+check your adjacent stack here:
+177 (front index)  177
+
+There is infomation from file about edges :  12(front)  17(rear)  1(cost)
+After 179th stacking
+check your adjacent stack here:
+178 (front index)  178
+
+There is infomation from file about edges :  18(front)  32(rear)  1(cost)
+After 180th stacking
+check your adjacent stack here:
+179 (front index)  179
+
+There is infomation from file about edges :  87(front)  64(rear)  1(cost)
+After 181th stacking
+check your adjacent stack here:
+180 (front index)  180
+
+There is infomation from file about edges :  55(front)  95(rear)  1(cost)
+After 182th stacking
+check your adjacent stack here:
+181 (front index)  181
+
+There is infomation from file about edges :  50(front)  5(rear)  1(cost)
+After 183th stacking
+check your adjacent stack here:
+182 (front index)  182
+
+There is infomation from file about edges :  5(front)  38(rear)  1(cost)
+After 184th stacking
+check your adjacent stack here:
+183 (front index)  183
+
+There is infomation from file about edges :  44(front)  27(rear)  1(cost)
+After 185th stacking
+check your adjacent stack here:
+184 (front index)  184
+
+There is infomation from file about edges :  67(front)  36(rear)  1(cost)
+After 186th stacking
+check your adjacent stack here:
+185 (front index)  185
+
+There is infomation from file about edges :  36(front)  80(rear)  1(cost)
+After 187th stacking
+check your adjacent stack here:
+186 (front index)  186
+
+There is infomation from file about edges :  48(front)  79(rear)  1(cost)
+After 188th stacking
+check your adjacent stack here:
+187 (front index)  187
+
+There is infomation from file about edges :  69(front)  33(rear)  1(cost)
+After 189th stacking
+check your adjacent stack here:
+188 (front index)  188
+
+There is infomation from file about edges :  56(front)  47(rear)  1(cost)
+After 190th stacking
+check your adjacent stack here:
+189 (front index)  189
+
+There is infomation from file about edges :  8(front)  88(rear)  1(cost)
+After 191th stacking
+check your adjacent stack here:
+190 (front index)  190
+
+There is infomation from file about edges :  28(front)  6(rear)  1(cost)
+After 192th stacking
+check your adjacent stack here:
+191 (front index)  191
+
+There is infomation from file about edges :  20(front)  0(rear)  1(cost)
+After 193th stacking
+check your adjacent stack here:
+192 (front index)  192
+
+There is infomation from file about edges :  93(front)  79(rear)  1(cost)
+After 194th stacking
+check your adjacent stack here:
+193 (front index)  193
+
+There is infomation from file about edges :  64(front)  6(rear)  1(cost)
+After 195th stacking
+check your adjacent stack here:
+194 (front index)  194
+
+There is infomation from file about edges :  19(front)  79(rear)  1(cost)
+After 196th stacking
+check your adjacent stack here:
+195 (front index)  195
+
+There is infomation from file about edges :  23(front)  79(rear)  1(cost)
+After 197th stacking
+check your adjacent stack here:
+196 (front index)  196
+
+There is infomation from file about edges :  75(front)  83(rear)  1(cost)
+After 198th stacking
+check your adjacent stack here:
+197 (front index)  197
+
+There is infomation from file about edges :  60(front)  98(rear)  1(cost)
+After 199th stacking
+check your adjacent stack here:
+198 (front index)  198
+
+There is infomation from file about edges :  87(front)  47(rear)  1(cost)
+After 200th stacking
+check your adjacent stack here:
+199 (front index)  199
+
+There is infomation from file about edges :  25(front)  64(rear)  1(cost)
+After 201th stacking
+check your adjacent stack here:
+200 (front index)  200
+
+There is infomation from file about edges :  48(front)  46(rear)  1(cost)
+After 202th stacking
+check your adjacent stack here:
+201 (front index)  201
+
+There is infomation from file about edges :  42(front)  45(rear)  1(cost)
+After 203th stacking
+check your adjacent stack here:
+202 (front index)  202
+
+There is infomation from file about edges :  85(front)  64(rear)  1(cost)
+After 204th stacking
+check your adjacent stack here:
+203 (front index)  203
+
+There is infomation from file about edges :  33(front)  13(rear)  1(cost)
+After 205th stacking
+check your adjacent stack here:
+204 (front index)  204
+
+There is infomation from file about edges :  2(front)  24(rear)  1(cost)
+After 206th stacking
+check your adjacent stack here:
+205 (front index)  205
+
+There is infomation from file about edges :  76(front)  62(rear)  1(cost)
+After 207th stacking
+check your adjacent stack here:
+206 (front index)  206
+
+There is infomation from file about edges :  39(front)  18(rear)  1(cost)
+After 208th stacking
+check your adjacent stack here:
+207 (front index)  207
+
+There is infomation from file about edges :  65(front)  91(rear)  1(cost)
+After 209th stacking
+check your adjacent stack here:
+208 (front index)  208
+
+There is infomation from file about edges :  25(front)  68(rear)  1(cost)
+After 210th stacking
+check your adjacent stack here:
+209 (front index)  209
+
+There is infomation from file about edges :  77(front)  25(rear)  1(cost)
+After 211th stacking
+check your adjacent stack here:
+210 (front index)  210
+
+There is infomation from file about edges :  73(front)  43(rear)  1(cost)
+After 212th stacking
+check your adjacent stack here:
+211 (front index)  211
+
+There is infomation from file about edges :  21(front)  50(rear)  1(cost)
+After 213th stacking
+check your adjacent stack here:
+212 (front index)  212
+
+There is infomation from file about edges :  57(front)  48(rear)  1(cost)
+After 214th stacking
+check your adjacent stack here:
+213 (front index)  213
+
+There is infomation from file about edges :  89(front)  16(rear)  1(cost)
+After 215th stacking
+check your adjacent stack here:
+214 (front index)  214
+
+There is infomation from file about edges :  20(front)  35(rear)  1(cost)
+After 216th stacking
+check your adjacent stack here:
+215 (front index)  215
+
+There is infomation from file about edges :  77(front)  58(rear)  1(cost)
+After 217th stacking
+check your adjacent stack here:
+216 (front index)  216
+
+There is infomation from file about edges :  62(front)  44(rear)  1(cost)
+After 218th stacking
+check your adjacent stack here:
+217 (front index)  217
+
+There is infomation from file about edges :  36(front)  97(rear)  1(cost)
+After 219th stacking
+check your adjacent stack here:
+218 (front index)  218
+
+There is infomation from file about edges :  34(front)  29(rear)  1(cost)
+After 220th stacking
+check your adjacent stack here:
+219 (front index)  219
+
+There is infomation from file about edges :  62(front)  80(rear)  1(cost)
+After 221th stacking
+check your adjacent stack here:
+220 (front index)  220
+
+There is infomation from file about edges :  45(front)  19(rear)  1(cost)
+After 222th stacking
+check your adjacent stack here:
+221 (front index)  221
+
+There is infomation from file about edges :  71(front)  48(rear)  1(cost)
+After 223th stacking
+check your adjacent stack here:
+222 (front index)  222
+
+There is infomation from file about edges :  96(front)  32(rear)  1(cost)
+After 224th stacking
+check your adjacent stack here:
+223 (front index)  223
+
+There is infomation from file about edges :  6(front)  51(rear)  1(cost)
+After 225th stacking
+check your adjacent stack here:
+224 (front index)  224
+
+There is infomation from file about edges :  50(front)  77(rear)  1(cost)
+After 226th stacking
+check your adjacent stack here:
+225 (front index)  225
+
+There is infomation from file about edges :  11(front)  15(rear)  1(cost)
+After 227th stacking
+check your adjacent stack here:
+226 (front index)  226
+
+There is infomation from file about edges :  17(front)  67(rear)  1(cost)
+After 228th stacking
+check your adjacent stack here:
+227 (front index)  227
+
+There is infomation from file about edges :  35(front)  27(rear)  1(cost)
+After 229th stacking
+check your adjacent stack here:
+228 (front index)  228
+
+There is infomation from file about edges :  65(front)  51(rear)  1(cost)
+After 230th stacking
+check your adjacent stack here:
+229 (front index)  229
+
+There is infomation from file about edges :  80(front)  21(rear)  1(cost)
+After 231th stacking
+check your adjacent stack here:
+230 (front index)  230
+
+There is infomation from file about edges :  20(front)  50(rear)  1(cost)
+After 232th stacking
+check your adjacent stack here:
+231 (front index)  231
+
+There is infomation from file about edges :  15(front)  30(rear)  1(cost)
+After 233th stacking
+check your adjacent stack here:
+232 (front index)  232
+
+There is infomation from file about edges :  3(front)  46(rear)  1(cost)
+After 234th stacking
+check your adjacent stack here:
+233 (front index)  233
+
+There is infomation from file about edges :  17(front)  3(rear)  1(cost)
+After 235th stacking
+check your adjacent stack here:
+234 (front index)  234
+
+There is infomation from file about edges :  93(front)  82(rear)  1(cost)
+After 236th stacking
+check your adjacent stack here:
+235 (front index)  235
+
+There is infomation from file about edges :  91(front)  36(rear)  1(cost)
+After 237th stacking
+check your adjacent stack here:
+236 (front index)  236
+
+There is infomation from file about edges :  72(front)  35(rear)  1(cost)
+After 238th stacking
+check your adjacent stack here:
+237 (front index)  237
+
+There is infomation from file about edges :  32(front)  10(rear)  1(cost)
+After 239th stacking
+check your adjacent stack here:
+238 (front index)  238
+
+There is infomation from file about edges :  22(front)  68(rear)  1(cost)
+After 240th stacking
+check your adjacent stack here:
+239 (front index)  239
+
+There is infomation from file about edges :  98(front)  65(rear)  1(cost)
+After 241th stacking
+check your adjacent stack here:
+240 (front index)  240
+
+There is infomation from file about edges :  1(front)  59(rear)  1(cost)
+After 242th stacking
+check your adjacent stack here:
+241 (front index)  241
+
+There is infomation from file about edges :  89(front)  0(rear)  1(cost)
+After 243th stacking
+check your adjacent stack here:
+242 (front index)  242
+
+There is infomation from file about edges :  16(front)  60(rear)  1(cost)
+After 244th stacking
+check your adjacent stack here:
+243 (front index)  243
+
+There is infomation from file about edges :  82(front)  40(rear)  1(cost)
+After 245th stacking
+check your adjacentC:\Users\ABCD\source\repos\AlgoPrac1\AlgoPrac1\Graph_in.txt
+ stack here:
+244 (front index)  244
+
+There is infomation from file about edges :  81(front)  23(rear)  1(cost)
+After 246th stacking
+check your adjacent stack here:
+245 (front index)  245
+
+There is infomation from file about edges :  71(front)  16(rear)  1(cost)
+After 247th stacking
+check your adjacent stack here:
+246 (front index)  246
+
+There is infomation from file about edges :  28(front)  7(rear)  1(cost)
+After 248th stacking
+check your adjacent stack here:
+247 (front index)  247
+
+There is infomation from file about edges :  63(front)  19(rear)  1(cost)
+After 249th stacking
+check your adjacent stack here:
+248 (front index)  248
+
+There is infomation from file about edges :  21(front)  85(rear)  1(cost)
+After 250th stacking
+check your adjacent stack here:
+249 (front index)  249
+
+There is infomation from file about edges :  85(front)  99(rear)  1(cost)
+After 251th stacking
+check your adjacent stack here:
+250 (front index)  250
+
+There is infomation from file about edges :  63(front)  99(rear)  1(cost)
+After 252th stacking
+check your adjacent stack here:
+251 (front index)  251
+
+There is infomation from file about edges :  0(front)  18(rear)  1(cost)
+After 253th stacking
+check your adjacent stack here:
+252 (front index)  252
+
+There is infomation from file about edges :  82(front)  23(rear)  1(cost)
+After 254th stacking
+check your adjacent stack here:
+253 (front index)  253
+
+There is infomation from file about edges :  19(front)  54(rear)  1(cost)
+After 255th stacking
+check your adjacent stack here:
+254 (front index)  254
+
+There is infomation from file about edges :  24(front)  54(rear)  1(cost)
+After 256th stacking
+check your adjacent stack here:
+255 (front index)  255
+
+There is infomation from file about edges :  90(front)  94(rear)  1(cost)
+After 257th stacking
+check your adjacent stack here:
+256 (front index)  256
+
+There is infomation from file about edges :  34(front)  56(rear)  1(cost)
+After 258th stacking
+check your adjacent stack here:
+257 (front index)  257
+
+There is infomation from file about edges :  70(front)  15(rear)  1(cost)
+After 259th stacking
+check your adjacent stack here:
+258 (front index)  258
+
+
+
+pushing is done!  Check log or press any button to proceed
+ allocated SLL : 518
+ Memory for sLL: 4144
+1 of graphs remains
+source = Graph_In.txt
+1 of graphs remains
+
+===================
+ File deleted!
+
+Error occured at renaming
+
